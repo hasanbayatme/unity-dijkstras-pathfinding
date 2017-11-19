@@ -23,15 +23,16 @@ In this example we will try to follow the path using a simple Cube object:
 
 ## Download
 
-You have two choices for downloading this repository:
+Follow one of the below ways to download the project:
 
-1. Clone (Run the below command in Terminal or Command Prompt)
+- Clone (Run the below command in Terminal or Command Prompt)
 
 ```bash
 git clone https://github.com/EmpireWorld/unity-dijkstras-pathfinding.git
 ```
 
-2. [Download ZIP](https://github.com/EmpireWorld/unity-dijkstras-pathfinding/archive/master.zip)
+- [Download ZIP](https://github.com/EmpireWorld/unity-dijkstras-pathfinding/archive/master.zip)
+- [Download Latest Version](https://github.com/EmpireWorld/unity-dijkstras-pathfinding/releases/latest)
 
 ## Usage
 
