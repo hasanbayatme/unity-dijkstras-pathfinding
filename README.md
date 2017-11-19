@@ -54,6 +54,10 @@ Debug.LogFormat ( "Path Length: {0}", path.length );
 
 Check the [Follower Script](https://github.com/EmpireWorld/unity-dijkstras-pathfinding/blob/master/Assets/Scripts/Follower.cs) for usage example.
 
+## Resources
+
+[:speech_balloon: Forum Thread](https://forum.unity.com/threads/unity-dijkstras-pathfinding.505212/)
+
 ## License
 
 MIT @ [Hasan Bayat](https://github.com/EmpireWorld)
