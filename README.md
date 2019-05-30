@@ -1,6 +1,6 @@
 # Unity Dijkstra's Pathfinding
 
-**Note**: Not being maintained by me, it was just an experiment for learning unity and c# concepts.
+**Note**: Not being maintained by me, it was just an experiment for learning unity and c# concepts ((I may publish a complete package for this manner in future))
 
 Dijkstra's Pathfinding Algorithm Unity Implementation.
 
