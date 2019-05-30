@@ -1,5 +1,7 @@
 # Unity Dijkstra's Pathfinding
 
+**Note**: Not being maintained by me, it is just an experiment for learning unity and c# concepts.
+
 Dijkstra's Pathfinding Algorithm Unity Implementation.
 
 It is the implementation of [Dijkstra's Pathfinding Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) in [Unity (Game Engine)](https://unity3d.com) that let's you find the shortest path between two Nodes in a Graph.
